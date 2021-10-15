@@ -1,5 +1,21 @@
 # Changelog
 
+## [7.0.0](https://www.github.com/mljs/spectra-processing/compare/v6.8.0...v7.0.0) (2021-10-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove node 10 from CI
+
+### Bug Fixes
+
+* xHistogram test case ([4170db9](https://www.github.com/mljs/spectra-processing/commit/4170db98ab911a4caa2f03553da216d0875a5056))
+
+
+### Miscellaneous Chores
+
+* remove node 10 from CI ([391b064](https://www.github.com/mljs/spectra-processing/commit/391b064f357a69e2725ad581f90de2ecc09d519e))
+
 ## [6.8.0](https://www.github.com/mljs/spectra-processing/compare/v6.7.1...v6.8.0) (2021-07-23)
 
 
